@@ -1,3 +1,10 @@
 body {
     font-family: Georgia;
+    background: url(../img/bg.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+body p
+{
+    font-size: 20px;
+    font-weight: bold;
 }
